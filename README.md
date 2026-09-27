@@ -1,4 +1,6 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<br clear="both">
+
+<h1 data-importer="text" align="center">Olá, meu nome é Matheus!</h1>
 
 ###
 
@@ -6,7 +8,9 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<br clear="both">
+
+<h2 data-importer="text" align="left"></h2>
 
 ###
 
@@ -14,11 +18,13 @@
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<br clear="both">
+
+<h2 data-importer="text" align="left"></h2>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />

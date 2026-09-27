@@ -1,13 +1,13 @@
-<h1 align="center">Hey, I'm Matheus!</h1>
+<h1 align="center">Ei, eu sou o Matheus!</h1>
 
-E-commerce Analyst, currently studying Systems Analysis and Development (ADS) at FAESA. I work with technology applied to e-commerce: automation, data, and control systems.
+Analista de e-commerce, atualmente estudando Análise e Desenvolvimento de Sistemas (ADS) na FAESA. Trabalho com tecnologia aplicada ao e-commerce: automação, dados e sistemas de controle.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,vscode,docker" />
 </p>
 
-## Contact
+## Contato
 
-- Email: [matheusmandelli05@gmail.com](mailto:matheusmandelli05@gmail.com)
+- E-mail: [matheusmandelli05@gmail.com](mailto:matheusmandelli05@gmail.com)
 - LinkedIn: [Matheus Mandelli](https://www.linkedin.com/in/matheusmandelli/)
 - GitHub: [mandelli05](https://github.com/mandelli05)
